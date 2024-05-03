@@ -6,9 +6,7 @@ body{
     border:none;
 
     position:relative;
-    overflow:hidden;
     border-radius:8px;
-    cursor:pointer;
 }
 
 .card:before{
